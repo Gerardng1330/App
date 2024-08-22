@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "35013928974",
+    "project_id": "apptareas-e4807",
+    "storage_bucket": "apptareas-e4807.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35013928974:android:17c4f207c32fd3551ab45f",
+        "android_client_info": {
+          "package_name": "com.example.apptareas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHKDTE0-s0xjjtmYtO6twbays0KW6h5SM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
